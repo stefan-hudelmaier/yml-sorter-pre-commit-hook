@@ -1,0 +1,8 @@
+{
+  "name": "yml-sorter-pre-commit-hook",
+  "description": "Git pre-commit hook for sorting YAML files",
+  "version": "1.0.0",
+  "devDependencies": {
+    "yml-sorter": "1.1.1"
+  }
+}

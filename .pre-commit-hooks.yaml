@@ -1,0 +1,7 @@
+-  id: yml-sorter
+   name: Sort YAML files
+   description: This hook sorts YAML files
+   entry: yml-sorter -i
+   language: node
+   types: [text]
+   files: "(yml|yaml)"
